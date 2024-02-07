@@ -1,3 +1,5 @@
+![Banner](https://crehana-blog.imgix.net/media/filer_public/43/1d/431d4e55-9547-4040-90c7-bce495c15a2c/android-vs-ios.jpg?auto=format&q=45&w=1920&h=auto&fit=crop)
+
 <h1 align="center">Hi 👋, I'm Atharav</h1>
 <h3 align="center">I am a versatile full-stack developer proficient in web development, fueled by passion and based in India. I am currently honing my skills in Android development.</h3>
 <img align = "right" alt=""coding" width = "400" src = "https://crehana-blog.imgix.net/media/filer_public/43/1d/431d4e55-9547-4040-90c7-bce495c15a2c/android-vs-ios.jpg?auto=format&q=45&w=1920&h=auto&fit=crop">

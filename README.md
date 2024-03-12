@@ -28,7 +28,9 @@
 
 
 <h3 align="left">HOLOPIN BADGES:</h3>
+
 [![An image of @atharavs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atharavs)](https://holopin.io/@atharavs)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharavs&show_icons=true&locale=en&layout=compact" alt="atharavs" /></p>
